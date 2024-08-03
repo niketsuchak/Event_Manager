@@ -1,8 +1,72 @@
 {
   "node": {
-    "432c3b155d32a37277ea71f1c0af6478779421f6": {
+    "32aedee51f452bda7fd45b52d30a8bde0cb96f15": {
       "workers": {
-        "app/(root)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fniketsuchak%2FDocuments%2FThe%20Master%20Folder%2Fevently%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions%2FinvalidateCache.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fniketsuchak%2FDesktop%2Fevently%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getRelatedEventsByCategory%22%2C%22updateEvent%22%2C%22getEventById%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getAllEvents%22%2C%22createEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "6299c3c9ace4bc74d4d0d97bf325688e540e2328": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fniketsuchak%2FDesktop%2Fevently%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getRelatedEventsByCategory%22%2C%22updateEvent%22%2C%22getEventById%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getAllEvents%22%2C%22createEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "6eed35ce56a7249af2090bfdb8f2da19441e6191": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fniketsuchak%2FDesktop%2Fevently%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getRelatedEventsByCategory%22%2C%22updateEvent%22%2C%22getEventById%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getAllEvents%22%2C%22createEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "778a91056d75c2bcb4798cea276846e1485a7877": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fniketsuchak%2FDesktop%2Fevently%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getRelatedEventsByCategory%22%2C%22updateEvent%22%2C%22getEventById%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getAllEvents%22%2C%22createEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "8933cec2e9b54c7bda008d12dea5e4b84b80ae5e": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fniketsuchak%2FDesktop%2Fevently%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getRelatedEventsByCategory%22%2C%22updateEvent%22%2C%22getEventById%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getAllEvents%22%2C%22createEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "e4a19e6ba2db752fe93f278072fb99d301e52bad": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fniketsuchak%2FDesktop%2Fevently%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getRelatedEventsByCategory%22%2C%22updateEvent%22%2C%22getEventById%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getAllEvents%22%2C%22createEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "e66f3d27144eca08c177de871420f4e46fcaea6b": {
+      "workers": {
+        "app/(root)/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fniketsuchak%2FDesktop%2Fevently%2Flib%2Factions%2Fevent.actions.ts%22%2C%5B%22getRelatedEventsByCategory%22%2C%22updateEvent%22%2C%22getEventById%22%2C%22deleteEvent%22%2C%22getEventsByUser%22%2C%22getAllEvents%22%2C%22createEvent%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(root)/page": "rsc"
+      }
+    },
+    "01b7ade47b07bc1bac57b8761d9a913fdcce2c77": {
+      "workers": {
+        "app/(root)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fniketsuchak%2FDesktop%2Fevently%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22createCategory%22%2C%22getAllCategories%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(root)/page": "action-browser"
+      }
+    },
+    "955c91b25ffa14289101ae64b889b90fd107e4f4": {
+      "workers": {
+        "app/(root)/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fniketsuchak%2FDesktop%2Fevently%2Flib%2Factions%2Fcategory.actions.ts%22%2C%5B%22createCategory%22%2C%22getAllCategories%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
         "app/(root)/page": "action-browser"
@@ -10,5 +74,5 @@
     }
   },
   "edge": {},
-  "encryptionKey": "mJvGcro2v02PQoQSvliiHtnv3Q/pz4SexYOvbz/kO8E="
+  "encryptionKey": "fQobV4SNS8CFKkxON1T8ePnAPqX6fHOPaM7DFeYKouo="
 }

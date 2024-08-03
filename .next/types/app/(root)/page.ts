@@ -1,4 +1,4 @@
-// File: /Users/niketsuchak/Documents/The Master Folder/evently/app/(root)/page.tsx
+// File: /Users/niketsuchak/Desktop/evently/app/(root)/page.tsx
 import * as entry from '../../../../app/(root)/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
