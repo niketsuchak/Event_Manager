@@ -16,15 +16,16 @@
       "static/chunks/main-app.js",
       "static/chunks/app/(root)/layout.js"
     ],
-    "/(auth)/layout": [
+    "/(root)/profile/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/(auth)/layout.js"
+      "static/chunks/app/(root)/profile/page.js"
     ],
-    "/(auth)/sign-in/[[...sign-in]]/page": [
+    "/(root)/events/create/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/(auth)/sign-in/[[...sign-in]]/page.js"
+      "static/css/app/(root)/events/create/page.css",
+      "static/chunks/app/(root)/events/create/page.js"
     ]
   }
 }
